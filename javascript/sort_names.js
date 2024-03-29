@@ -1,5 +1,6 @@
 
-var list = []
+var list = []   // array 
+
 
 while(true){
     var names = prompt("enter your name : ");
